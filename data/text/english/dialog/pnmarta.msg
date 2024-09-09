@@ -57,7 +57,7 @@
 {115}{999}{Yeah, yeah. I, uh, gotta go.}
 
 #Node012
-{120}{}{They are murderers and bandits! They pillage settlements and kill the inhabitants of Radius for their amusement! And if you're "lucky" to be born pretty, they will correct that. Terrible people. I don't want to talk about them.}
+{120}{}{They are murderers and bandits! They pillage settlements and kill the inhabitants of Radius just for their amusement, and if you "got lucky" to be born pretty - a couple of rapings will correct that. Terrible people, I don't want to talk about them.}
 {121}{010}{I'm so sorry. Can I ask another question?}
 {122}{010}{Cruel world - cruel people. I'd like to ask something else.}
 

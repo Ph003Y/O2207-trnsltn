@@ -33,7 +33,7 @@
 {22}{006}{Drop it. I climbed the mountain of corpses to get to you. And I'm going to enjoy every second.}
 {23}{006}{I'm the one who will tear you into a hundred little wires and feed your intestines to jackals!}
 {24}{007}{You are not a God. You are just delusional. Think you are ruling the world? You're crazy!}
-{25}{998}{You'll see who I am - after I stuff your ass with led!}
+{25}{998}{You'll see who I am - after I stuff your ass with lead!}
 
 #Node003
 {30}{}{You?! You think you DECIDE something?? A pathetic human with a primitive brain, not capable of comprehending your purpose! Not understanding that in fulfillment of purpose lies the prosperity of Olympus- no, the whole Radius! This is the foundation of our civilization's rebirth! And you chose to not fulfill your purpose! Do you think this makes you a chosen one? Think it makes you SPECIAL?! You are an ERROR! An inevitable FLAW, a faulty cog with an inflated ego! Do you think you came here to change the world? Make things BETTER?! NO!! You are not even the first!! But I exist to keep things in order - and I am fixing errors. Take your last breath, puny human.}

@@ -103,7 +103,7 @@
 {193}{023}{I agree, it's quite boring here. And the authorities suck. }
 
 #Node020
-{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! They both used to be more caring though... Still, I'm happy they are busy with a common goal and spend time together.}
+{200}{}{Dan is lovely! He is a real man, always making difficult decisions without any hesitations! That's how he conquered my heart... But lately he acts cold. He says that something is wrong with me. Arsene is just like him - strong and brave. He makes me so proud! Although, they both used to be more caring... Still, I'm happy they are busy with a common goal and spend time together.}
 {201}{999}{I think I need to talk to Dan. See you around, Maurissa.}
 {202}{050}{I think it's your fault that your family is falling apart. You should look for things in your home, not watch out for someone who's "following" you. Don't you think so?}
 {203}{021}{I feel sorry for you. I think you deserve better. }

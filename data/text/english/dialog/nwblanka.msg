@@ -260,10 +260,10 @@
 {343}{999}{No, I'm in a hurry and already leaving. But I'll come by when Cyren is away.}
 
 {350}{}{Okay. The girls in Rainbow told me rumors about a device somewhere in Livos, which could help me to... Take some edge off, during the lonely nights.}
-{351}{036}{Yes, I know about the device to take edges off. It's called a trimmer.}
+{351}{036}{Yes, I know about the device to take some edges off. It's called a trimmer.}
 {352}{037}{Go on.}
 
-{360}{}{[Blanca gives you a blank stare for a couple of seconds - and then explodes with laughter, holding on to her belly.] Ahahahaha, oh, wow!! That was good! I haven't had this much fun in a long while. Looks like I already took some edge off, even without a device. Thank you for helping me out with this. I will even give you a present - here, it's something Cyren brought from one of his missions. Looks like he forgot about it.}
+{360}{}{[Blanca gives you a blank stare for a couple of seconds - and then explodes with laughter, holding on to her belly.] Ahahahaha, oh, wow!! That was good! I haven't had this much fun in a long while. Looks like I already let off some steam, even without a device. Thank you for helping me with this. I will even give you a present - here, it's something Cyren brought from one of his missions. Looks like he forgot about it.}
 {361}{010}{Great. Let's talk about other things.}
 {362}{999}{You're welcome. But I need to go now, see you.}
 

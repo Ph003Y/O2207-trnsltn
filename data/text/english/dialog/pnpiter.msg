@@ -72,7 +72,7 @@
 {114}{999}{Yeah, I see. Oh! I've got to go.}
 
 #Node012
-{120}{}{Oh, come on! Look around, the half of people here are from Tartarus! Of course they won't let in ghouls and Seekers, but me and Bono are sure that it's possible to work out a deal with guards. Maybe batteries or drugs will do, I don't know. Bono had some ideas.}
+{120}{}{Oh, come on! Look around, the half of people here are from Tartarus! Of course they won't let in ghouls and Seekers, but me and Bono are sure that it's possible to work out a deal with the guards. Maybe batteries or drugs will do, I don't know. Bono had some ideas.}
 {121}{010}{Well, it might work. I want to ask something else.}
 {122}{999}{I really doubt it - but good luck to you anyway.}
 
@@ -84,7 +84,7 @@
 {204}{999}{Okay, I'll see for myself.}
 
 #Node021
-{210}{}{The ghoul on the lower platform. He and his men are the only ones who walk around with guns here. Hugo himself is just a big baby who wants to play pew-pew and show everyone that he's strong. He's ex-Jackal, after all.}
+{210}{}{The ghoul on the lower platform. He and his men are the only ones who walk around with guns here. Hugo himself is just a big baby who wants to play pew-pew and prove to everyone he's strong. He's ex-Jackal, after all.}
 {211}{022}{Do they have enough guns and men to pull it off?}
 {212}{010}{Thanks for the warning. I'll keep that in mind.}
 

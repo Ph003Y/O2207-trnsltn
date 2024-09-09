@@ -77,12 +77,12 @@
 {321}{010}{Hm. I'll think about it. Another question.}
 
 
-{400}{}{Oh, THAT... Yes, I'm trying to grow some corn, but it's not quite working out. There was a girl from Tartarus here once, with pockets full of seeds. She told me you could grow your food right beneath your feet.}
-{401}{041}{And? What could go wrong?}
+{400}{}{Oh, THAT... Yes, I'm trying to grow some corn, but it's not working out. There was a girl from Tartarus with full pockets of seeds. She told me you could grow your food right beneath your feet.}
+{401}{041}{So? What could go wrong?}
 {402}{999}{Oh, I know where this is going. No, I'm not interested.}
 
 
-{410}{}{I don't even know... I wasted a lot of time disassembling the floor tiles, preparing the soil, making patches... I even watered the crops! But there are only stems, no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that Lavash manure only makes it worse!}
+{410}{}{I don't even know... I wasted a lot of time disassembling the floor tiles, preparing the soil, making patches... I even watered the crops! But there are only stems and no cobs! [he grabs his head] Probably the soil should be fertilized, but it seems that Lavash manure only makes it worse!}
 {411}{042}{Maybe you need something else then? Man, I could really use Catty's advice on that.}
 
 
@@ -113,8 +113,8 @@
 
 
 
-{600}{}{Yes! The fertilizer really helped! The corn started to yield a harvest. Here, have some. [he gives you some corn cobs] Take it, I won't have no for an answer!}
-{601}{999}{Hah. Well, thanks. Glad to be of help.}
+{600}{}{Yes! The fertilizer really helped! The corn started to yield a harvest. Here, have some. [gives you some corn cobs] Take it, I won't take no for an answer!}
+{601}{999}{Hah. well, thanks. Glad to be of help.}
 {602}{}{Yes, I think all goes better than before. In a few days I'll take harvest!}
 {603}{999}{Glad I could help. Good luck.}
 

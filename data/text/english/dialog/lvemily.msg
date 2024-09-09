@@ -27,7 +27,7 @@
 {14}{005}{Are you fucking kidding me? Wanna find out which of the two of us is the lowlife?}
 {15}{006}{Important person? You are just an arrogant bitch, there are hundreds like you around.}
 
-{20}{}{[The woman contemptuously squints] I have the right to use any words and phrases I please. Note, that you dare to initiate the conversation with me, despite the colossal differences in our social statuses. Know that I am Emily Dunton, the ruler of Livos. Do you understand how great my kindness is to condescend to talk to you?}
+{20}{}{[The woman contemptuously squints] I have the right to use any words and phrases I please. Note, that you dare to initiate the conversation with me, despite the colossal differences in our social statuses. Know that I am Emily Dunton, the ruler of Livos. Do you understand how great my condescension is for merely talking to you?}
 {21}{008}{I'm new at Livos. And I want to know more about people who run it.}
 {22}{007}{As for me, you are just a bitch with an inflated ego.}
 {23}{999}{I am sorry, Emily, I won't be bothering you anymore.}

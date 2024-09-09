@@ -33,7 +33,7 @@
 {104}{015}{What is this place?}
 {105}{036}{There was a problem with the recent water delivery at NWO...}
 {106}{029}{I'd like to talk about Mignon Horton.}
-{107}{035}{Can you give a discount? I'm a Livos dweller.}
+{107}{035}{Can you give a discount? I'm a Livos dweller too.}
 {108}{038}{Christopher! I want to talk about Mignon's behavior!  }
 {109}{999}{We'll talk later, bye.}
 

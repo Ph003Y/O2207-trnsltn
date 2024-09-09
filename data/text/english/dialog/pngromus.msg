@@ -35,7 +35,7 @@
 {40}{}{Yeah, yeah, I'm fery glad thoo. Yeeah... another pathienth - thath ith, of courthe, fery good. Yeeeeeah.}	
 {41}{005}{I'm not a patient, alright? It's only a couple of scratches.}
 {42}{999}{Yeah, sure. Bye.}	
-{50}{}{Noth a pathienth thuday, and thumorrow you are barely walking. Here itha common thing, don'thu doubth it. Efery newcomer efenchually cometh thu me. Yeah, you will thee.}	
+{50}{}{Noth a pathienth thuday, and thumorrow you are barely walking. Here itha common thing, don'tchu doubth it. Efery newcomer efenchually cometh thu me. Yeah, you will thee.}	
 {51}{010}{Anyway, can I ask something?}	
 {52}{999}{Yeah! We'll see!}	
 {100}{}{Yeah? [he slurps] Oh, Ith you again. Well... Whaddaya thay?}	
@@ -49,7 +49,7 @@
 {108}{Hunting}{I'm ready to hunt some "fkorpionth", let's go.}	
 {109}{999}{I'm good, thanks. See you.}	
 {111}{}{Well, young man, you thee, I'm noth a human, I'm a ghouwl. Ang I feel mythelf wery good for one. Yeeeah. [he slurps] By the way, I'm in exacth age of looking like thith. It was, uh... Fifthy years sinthe weborn. Ooh, itha loth of thime. Maybe I'm efen older than Bono, heh-heh. Soon, the thime will come for us thu go inthu Purgathory. Nothing can hewlp me, young man.}	
-{112}{}{What a mannerleth young man! Get used thu it, old ghoulth can look even worthe.}	
+{112}{}{What mannerleth young man! Get used thu it, old ghoulth can look even worthe.}	
 {113}{010}{Understood. Can I ask something else?}	
 {114}{999}{Oh... Yeah. I see. Ghouls, yeah. Uh, I'll come by later.}
 {115}{013}{Ghouls... Are you dead? What do you mean by that?}
@@ -68,13 +68,13 @@
 {220}{}{Well, if was pretthy dangerouth, yeah [he slurps] Okay, gimme, gimme the teilth. [he unceremoniously takes away all scorpion tails from you] Oh yeeeeeah, that shouwld be enough. Well, thankth for the hewlp, you can thake this pothion [he hands you the bottle with a questionable murky goo inside] Ith an exthract from the teilth of the fkorpionth. Cometh in handy in case of radiathion poithoning, yeah...}	
 {221}{}{Thanks doc, was glad to be of help.}	
 {222}{}{Well, better than nothing. See you, doc.}	
-{300}{}{Li-ly... [he ponders] Yeeeah, we love to chat ath night before fleep. I think ith could hewlp to calm hewr down, buth Martha don'th exacthly likes me. Petulant ftupid woman! Thry just thu talk with the girl, thell some ftory.}	
+{300}{}{Li-ly... [he ponders] Yeeeah, we love to chat ath night before fleep. I think ith could help to calm hewr down, buth Martha don'th exacthly likes me. Petulant stupid woman! Thry just thu talk with the girl, thell some sthowry.}	
 {301}{999}{Tell some story? But I don't know any! Anyway, thanks for the advice.}	
 {302}{999}{Yeah, I could not bother asking. To tell a bedtime story to a kid - what can be more obvious? Oh well, let's try it.}	
 {400}{}{[You regain consciousness in a couple of minutes after a sharp blow in your collarbone. For some reason, you feel great!] Here, ath aigh alwayth thay - good punch healf eferything!}	
 {401}{999}{Wow, thanks. I really hope this aching pain in my shoulder will go away eventually.}	
 {402}{999}{You could have gone easier on me, doc! But thanks anyway.}	
-{403}{}{[Rapidly examining you, he shakes his head. His jaw wiggles from side to side.] Thoo bad, buth you had sufferedh a fery sefere damage. I fuggesth you find yourself a docthor with some toolth. Or thearch for a Heal-Up, ith can get efen a dead one back on his feeth!}	
+{403}{}{[Rapidly examining you, he shakes his head. His jaw wiggles from side to side when he does that] Thoo bad, buth you had sufferedh a fery sefere damageth. I suggesth you find yourself a docthor with some toolth. Or thearch for a Heal-Up, ith can get efen a dead one back on his feeth!}	
 {404}{999}{I see, I see. I'd better go then.}	
 {500}{}{Justh as aigh thought - radiathion poithoning. With such paithe you hafe efery chance of joining the ranks of ghouwls, heh-heh [cough]. So, healing then? Ith will costh you }	
 {501}{}{ patterieth and will thake abouth }	
@@ -86,7 +86,7 @@
 {511}{999}{Okay, okay, I got it. Bye, doc.}	
 {520}{}{[You regain consciousness after a while. You feel a little dizzy, but mostly good.] So, how are you feeling? I thook some liberthies with the pothion compothition, buth ath far ath I can thee - you are toing pretthy well. If your pee will glow again - come thu me, I'm always glad thu help!}	
 {521}{999}{Thanks doc. I'll try to glow a little less. See you around.}	
-{522}{999}{Okay doc. You should really stop experimenting with you bitter drinks. What if an extra toe would grow on me because of them? I have to come to you and stick it, well, you know where. [wink]}	
+{522}{999}{Okay doc. You should really stop experimenting with you bitter drinks. What if an extra toe would grow on me because of them? If so, I have to come to you and stick it, well, you know where. [wink]}	
 #œÀ¿¬¿ﬁŸ»≈ —ŒŒ¡Ÿ≈Õ»ﬂ (œÓÎÓÊËÚÂÎ¸Ì‡ˇ Â‡ÍˆËˇ)	
 #	
 {1000}{}{}	
