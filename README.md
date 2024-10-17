@@ -15,4 +15,6 @@ delete party_orders.ini in mods/IniConfigs
 
 put edited sfall.dat into the root folder
 
+download inventory filter mod english version, copy everything inside pcx folder then use InvenFilter.ini file from here.
+
 Feel free to fix and to contribute.
