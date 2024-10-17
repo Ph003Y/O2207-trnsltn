@@ -20,7 +20,7 @@
 #
 #ЗДЕСЬ НАЧИНАЕТСЯ ДИАЛОГ
 #
-{10}{}{[The fumes of alcohol around him are so strong they could knock a Lavash down, but his faded eyes look at you quite soberly. You take a guess that he is not as old as he looks.] Booze, drugs and our star attraction - the Drop! If Apothecary doesn't have it, then no one else does. So, what is it you'd like?}
+{10}{}{[The persistent smell of alcohol around him could knock a Lavash down, but his faded eyes look at you quite soberly. You take a guess that he is not as old as he looks.] Booze, drugs, and our star attraction - the Drop! If Apothecary doesn't have it, then no one else does. So, what is it you'd like?}
 {11}{011}{I'm }
 {12}{011}{, I'm just looking around.}
 
@@ -31,38 +31,38 @@
 {101}{022}{That's exactly why I'm here. Didn't Mate tell you anything?}
 {102}{014}{About Douglas...}
 {103}{018}{By the way, about business - care to tell me about how you settled up here? About how it all started?}
-{104}{Бартер}{I wanted to look at your assortment.}
+{104}{Barter}{I wanted to look at your assortment.}
 {105}{023}{Recently you kind of expressed your dissatisfaction with the current state of affairs around here...}
 {106}{999}{Okay then, see you later.}
 {1002}{}{[swiftly pours cognac] How about a little shot to celebrate our meeting?}
-{107}{Бартер}{What happened to business? I'd like to buy something from you.}
+{107}{Barter}{What happened to business? I'd like to buy something from you.}
 {108}{018}{Care to tell me about how it all started here?}
 {109}{023}{I'll keep you company when business on Rainbow gets rolling. I was quite impressed by your story, but the old days won't come back by themselves, you know what I mean?}
 {1010}{999}{Maybe later. Take care, Apothecary.}
-{1003}{}{[Looks like he's strongly determined to break his own record for short-term cognac absorption. But for now he is still capable of standing straight and putting words into sentences.] What? Did you come to drink for the Hog? I bet he's boiling in a pot filled with Drop... }
+{1003}{}{[Looks like he's strongly determined to break his own record for short-term cognac absorption. But for now, he is still on his feet and able to talk.] What? Did you come to drink for the Hog? I bet he's already simmering in a pool of boiling Drop... }
 {1011}{014}{Are you still interested in what's the deal with Douglas?}
 {1012}{024}{The King is dead, long live the King. Shit happens. Are you worried?}
-{1013}{Бартер}{Why not. Do you have something left in stock?}
+{1013}{Barter}{Why not. Do you have something left in stock?}
 {1014}{999}{Maybe later. If you'll still have something...}
-{1004}{}{[he swiftly pours a full glass] The Boss graced my bar with his presence! Let's drink for that.}
+{1004}{}{[he swiftly pours a full glass] Boss has graced my bar with his presence! Let's drink for that.}
 {1015}{031}{How's the Drop business going?}
 {1016}{032}{All you need is an excuse. How is it going, Apothecary?}
-{1017}{Бартер}{Show me what you have for sale today. And fast.}
+{1017}{Barter}{Show me what you have for sale today. And fast.}
 {1018}{999}{I think it's more likely to see a two-headed Lavash than sober you... Okay, I need to go. Take care of your liver.}
 {1005}{}{[drinks another shot, not even paying attention to the dirt and trash lying around] I thought you left this place. Not that smart, huh?}
-{1019}{Бартер}{Better pour me something strong. And show me what you have in stock.}
+{1019}{Barter}{Better pour me something strong. And show me what you have in stock.}
 {1020}{030}{I see the situation leaves a lot to be desired?}
 {1021}{999}{Yes, I've come to say bye. Cheers!}
 {1006}{}{[he sniffles with his red nose] A pleasure for me! Why so glum? Has something happened in the fucking kingdom? Take a seat, let's talk about our business. But remember - I don't take services of hookers as payment!}
 {1022}{022}{That's exactly why I'm here - to talk business. Didn't Mate tell you anything?}
 {1023}{014}{About Douglas...}
 {1024}{018}{By the way, about business - care to tell me about how you settled up here? About how it all started?}
-{1025}{Бартер}{Don't worry, I am paying with money. Show me what you have.}
+{1025}{Barter}{Don't worry, I am paying with money. Show me what you have.}
 {1026}{023}{I was just getting myself familiar with local affairs. Don't you think this place has some... Troubles with management? We touched on this subject earlier.}
-{1027}{999}{I'm good. The business is also good. Was nice to see you, Apothecary.}
+{1027}{999}{I'm good. The business is going well. Nice to see you, Apothecary.}
 
-{400}{011a}{I'm looking for a thing called "Antiradine". Do you know what it is?}
-{401}{}{Hah, you kidding? This is just the place to get it. Deals with the radiation instantly, has practically no side effects. Sometimes we brew it right here, but mostly I sell old stock. The drug is not cheap though. Recently I lost one dose to Mate... [he angrily throws his dirty cloth on the table]}
+{400}{011a}{I'm looking for something called "Antiradine". Do you know what it is?}
+{401}{}{Hah, you kidding? People can only get it here. Deals with the radiation instantly, with almost no side effects. Sometimes we brew it right here, but mostly I sell the old stocks. The drug is not cheap though. Recently I lost one dose to Mate... [he angrily throws his dirty cloth on the table]}
 {402}{Barter}{Interesting. Let's take a look at your assortment again.}
 {403}{010}{Thanks for the information. I wanted to ask something else.}
 {404}{999}{Mate, you say? I'll go talk to him.}
@@ -71,7 +71,7 @@
 
 
 {110}{}{[he grins] Yeah. We don't like your nosy type around here, you know. }
-{111}{Бартер}{What do you mean? I just wanted to look at your stock. Let's barter, maybe?}
+{111}{Barter}{What do you mean? I just wanted to look at your stock. Let's barter, maybe?}
 {112}{022}{What's wrong with my type? Didn't Mate tell you about me?}
 {113}{999}{Then I better go.}
 
@@ -85,7 +85,7 @@
 {131}{999}{Okay, let's see what I can do... No promises though.}
 {1302}{}{[he smiles with a satisfied look] We do honest deals here, you know! Just like in the old days...}
 {132}{018}{By the way, can you tell me about the old times?}
-{133}{Бартер}{Let's drink for that. What do you have in stock?}
+{133}{Barter}{Let's drink for that. What do you have in stock?}
 {134}{999}{See you around, Apothecary.}
 {135}{014}{Hah, I dealt with this already!}
 
@@ -124,7 +124,7 @@
 {201}{021}{I don't quite get what you're trying to say.}
 
 
-{210}{}{I mean this - look around you. No one here cares about anything anymore. The territory is full of some shady assholes loitering around, the number of problems is increasing... And Hog, you know... I'm worried. What would happen if Hog kicks the bucket? I'm too old for this shit. And I fail to see any worthy candidates to keep things tight... I think I'm talking too much. It's nice to remember the old times, but enough for now. Come around, if you want to make business.}
+{210}{}{I mean this - look around you. No one here cares about anything anymore. The territory is full of some shady assholes loitering around, the number of problems is increasing... And Hog, you know... I'm worried. What would happen if Hog kicks the bucket? I'm too old for this shit... and I fail to see any worthy candidates to keep things tight... I think I'm talking too much. It's nice to remember the old times, but enough for now. Come around, if you want to make business.}
 {211}{999}{Thanks for the information. I definitely will.}
 
 
@@ -136,7 +136,7 @@
 {2301}{}{[he gives you a friendly smile, then swiftly grabs your throat and hisses] Here's how it is, little shit - one old man just decided to ramble about good old days with another customer. Nothing more. I don't know you. I won't discuss something serious with you. And if you keep talking like that, I'm going to feed your liver to the dogs. }
 {231}{999}{Hey, no hands! I didn't mean anything bad. Let's talk later when we... Get to know each other better.}
 {232}{029}{Ow! Ye old ass, I'll cook YOUR liver if you won't get your meat hooks off me! }
-{2302}{}{[he shrugs, drinking two shots simultaneously] I see you are okay. So, here's some free advice - lay off this chat. I won't make one move while Hog is still around. He keeps things in order. }
+{2302}{}{[he shrugs, drinking two shots simultaneously] I see you are okay. So, here's some free advice - lay off this chat. I won't make the first move while Hog is still around. He keeps things in order. }
 {233}{999}{Then let's drink for him staying in charge for many years to come. Although now you should be very careful when betting on someone... Think about it.}
 {234}{999}{Of course. We're done with this topic.}
 
@@ -150,20 +150,20 @@
 {251}{029}{That's it asshole, I'm sick of it! Let's check if you have booze instead of blood!}
 {252}{999}{Okay, better to talk about it later then.}
 {2502}{}{[looks at you with caution] Why do you say that?}
-{253}{026}{I have a strange feeling about this. That Mate can join the Hog soon. You know, from poisoning, for example. I don't even know where these thoughts came from. Maybe it's something in the air...}
+{253}{026}{I have a strange feeling about this. That Mate can join the Hog soon. You know, food poisoning, for example. I don't even know where these thoughts came from. Maybe it's something in the air...}
 {254}{028}{I don't really want to elaborate on that. Let's talk like businessmen - if someone would pay you a huge amount of money for, I don't know, some deadly poison, to deal with huge rats - would you question it?}
 {255}{999}{I dunno... Oh! Look at the time! Bye, Apothecary.}
 
 
-{260}{}{[he looks around and lowers his voice] Anything can happen... What's on your mind?}
-{261}{027}{What if someone pretty good at cooking some deadly concoctions would make some... Food supplement? And give it to someone, representing another someone? Someone who would remember the favors? There's nothing better for good people than a mutually beneficial partnership, right? When the secrets can be kept, of course.}
+{260}{}{[he looks around and lowers his voice] Anything can happen.... What's on your mind?}
+{261}{027}{What if someone, pretty good at cooking some deadly concoctions, would make some... food additive. And then give it to someone, representing another someone, who would remember this favor? There's nothing better for good people than a mutually beneficial partnership, right? When the secrets can be kept, of course.}
 
 
-{270}{}{[he chuckles] You are such a weasel... You're gonna go far, kid. Okay, "someone" agrees - but only to produce the supplement and to give it to another "someone", sent by "someone". Nothing more.}
+{270}{}{[he chuckles] You are such a weasel... You're gonna go far, kid. Okay, "someone" agrees - but only to produce the additive and to give it to another "someone", sent by "someone". Nothing more.}
 {271}{999}{I don't need more. And I hope we don't have to talk about this again.}
 
 
-{280}{}{[he hesitates, nervously scratching his chin, but still firmly nods] This might be possible, yeah. Why not? The rats are the size of Mate, I suppose? It's going to be a difficult job... But I could try - for a thousand batteries. }
+{280}{}{[he hesitates, nervously scratching his chin, but still firmly nods] This might be possible, yeah. Why not? The rats are the size of Mate, I suppose? It's going to be a difficult job... I could try though - for a thousand batteries. }
 {281}{999}{Deal. Here's the money. Wait for someone from me.}
 {282}{999}{Damn, that's a lot... Let's pretend we didn't have this conversation. If something comes up, I know where to find you.}
 
@@ -200,20 +200,20 @@
 {341}{036}{Why the hell not? I think I can do it. No need for the inauguration, I'm too humble for that.}
 {342}{036}{I'm in. Tell me what's the deal around here at the moment.}
 {343}{035}{Nah, it's not for me. Solve your problems by yourselves.}
-{3402}{}{[he makes a long gulp, pouring the rest of the booze down his throat] Phew... The thing is - the boys root for you. They think Hog solved problems... Not in a very flexible way - but he still did. Mate was like that too. But in the current situation, we need someone smarter. That's when I thought about you, so - what do you think about leading the place? The Rainbow awaits for you, kid! }
+{3402}{}{[he makes a long gulp, pouring the rest of the booze down his throat] Phew... The thing is - the boys root for you. They think Hog solved problems... Not in a very flexible way - but he still did. Mate was like that too. But in the current situation, we need someone smarter. That's when I thought about you, so - what do you think about leading the place? The Rainbow awaits, kid! }
 {344}{036}{Good. Fill me in - what should I start with?}
 {345}{035}{You know, I've been thinking... I have my own problems. It's too much to do here. I'll pass.}
 
 
 {350}{}{[looks like he can't believe what you've just said] You... You are fucking... Quitting? Why the fuck did you start this mess then?}
-{351}{037}{I just like to beat the shit out of people. That's it.}
-{352}{037}{Maybe I had my beef with Mate? Maybe I just screwed you over because of my own interests? Maybe I don't really care about the Rainbow? So, as I said - no.}
+{351}{037}{I just like to beat the shit out of people, that's it.}
+{352}{037}{Maybe I had my beef with Mate? Maybe I just screwed you over because of my own interests? Maybe I don't really care about the Rainbow? As I said - no.}
 {353}{037}{I had my reasons. Thanks for the offer, but my answer stays the same.}
 
 
-{360}{}{[he exhales in relief] Listen then. Your job is to keep things going. Business matters must be carried out without problems. Don't worry about our stuff, we will take care of it. Once in a month you will be getting your cut. Protection fee. The rest you'll figure out. Everything depends on how you act now. And - congratulations, Boss! I should definitely drink for that, just a second...}
+{360}{}{[he exhales in relief] Listen then. Your job is to keep things going. Business matters must be carried out without problems. Don't worry about our stuff, we will take care of it. Once in a month, you will be getting a portion of protection fee. The rest you'll figure out. Everything depends on how you act now. And - congratulations, Boss! I should definitely drink for that, just a second...}
 {361}{999}{Nice. But if you think you can relax, you are dead wrong. You are free to go. I'd like to look around my domain.}
 {362}{999}{I see. Now, I need to think everything over - and don't worry, I won't forget your role in it.}
 
-{370}{}{[looks like he is going to throw himself at you, but instead, he suddenly goes limp] That's your choice. Don't regret it. [he turns away.]}
+{370}{}{[looks like he is going to throw himself at you, but instead, he suddenly goes limp] That's your choice then. Don't regret it. [he turns away.]}
 {371}{999}{[end]}

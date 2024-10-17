@@ -31,20 +31,20 @@
 {13}{002}{Hey, big guy!}
 
 
-{20}{}{[He stops what he was doing and looks at you. You notice a necklace around his neck made of small stones, empty shells and pieces of glass. There's a patch on his bandolier, which says "Angel of Anaheim".] The name?}
+{20}{}{[He stops what he was doing and looks at you. You notice that he's wearing a necklace made of little stones, empty shells, and pieces of glass. On his bandolier you see a patch which reads "Angel of Anaheim"] The name?}
 {21}{003}{Does it matter?}
 {22}{003}{A pain in the ass.}
 {23}{003}{Name's }
 {24}{003}{. Why does it matter?}
 
 
-{30}{}{[Looks like he didn't hear that] Now you are no one. No name. At least until the local authorities start to treat you with a little respect. You are a newbie. And newbies don't last long here.}
+{30}{}{[Looks like he didn't hear that] Now you are no one. No name. At least until the local authorities start to show you some respect. You are a newbie. And newbies don't last long here.}
 {31}{006}{Gee, thanks for a warm welcome. }
 {32}{005}{How enlightening. I actually don't care about what the old geezer like you says.}
 {33}{004}{So? }
 
 
-{40}{}{Just so you know what you're dealing with here. I'm Ursul. Although I don't actually responsible for the newbies, I often involve them in doing something useful. So maybe we'll have something to talk about.}
+{40}{}{Just so you kmow what you're dealing with here. I'm Ursul. Although I don't actually responsible for the newbies, I often involve them in doing something useful. So maybe we'll have something to talk about.}
 {41}{007}{Please continue. I'm intrigued. }
 {42}{999}{Curious, but now I'm busy. I have to go.}
 {43}{999}{I don't think I'm interested. [end of dialogue]}
@@ -60,7 +60,7 @@
 {63}{999}{I don't think I'm interested. [end of dialogue]}
 
 
-{70}{}{[He laughs while continuing the sharpening process.] Do you like animals?}
+{70}{}{[He laughs, while continue sharpening his knife.] Do you like animals?}
 {71}{009}{What?}
 {72}{008}{No.}
 {73}{008}{Yes.}
@@ -98,13 +98,13 @@
 {121}{013}{Tell me more about the hunt.}
 
 
-{130}{}{I found a place not far from here that a huge pack of Ursa had chosen as a lair. The goal is simple - to travel there and kill them all. Then we'll carry their corpses to the camp. The rest is not our concern. If you're in, I'd recommend stocking some meds, ammo and get the biggest gun you can carry. If you are ready, we can leave right away. If the hunt is good, you'll get some batteries as a reward. }
+{130}{}{I found a place not far from here, which has been chosen as a lair by the huge pack of Ursa. The goal is simple - travel there and kill them all. After that, we'll carry their corpses to the camp. The rest is not our concern. If you're in, I'd recommend stocking some meds, ammo and get the biggest gun you can carry. If you are ready, we can leave right away. If the hunt is good, you'll get some batteries as a reward. }
 {131}{999}{I'm ready, let's go.}
 {132}{011}{I changed my mind - I don't really like hunting...}
 {133}{999}{I need some time to prepare.}
 
 {140}{}{Sure. Here. [he pulls out a handful of batteries from his pocket and gives it to you] }
-{141}{015}{[count the batteries] 67? Not much, considering the risk taken.}
+{141}{015}{[count the batteries] 67? Not much, considering the risks taken.}
 {142}{016}{[put the batteries into your pocket]}
 
 
@@ -120,7 +120,7 @@
 {164}{018}{Maybe.}
 
 
-{170}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon about a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle. And how to shoot it in a way that brings maximum pain and suffering to the target. [He looks at you, waiting for an answer]}
+{170}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in a way that brings maximum pain and suffering to the target. [he looks at you, waiting for an answer]}
 {171}{019}{I'm from the Olympus.}
 {172}{021}{Why do you care?}
 {173}{022}{What if I don't tell you?}
@@ -147,7 +147,7 @@
 {220}{}{You'll get the same attitude back.}
 {221}{019}{Olympus. I'm from Olympus.}
 
-{230}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle. And how to shoot it in a way that brings maximum pain and suffering to the target. [He looks at you, waiting for an answer]}
+{230}{}{I'm not blind. You are fighting not like the people who lived all their lives in Radius. It looks as you first laid hands on a weapon around a month ago. You kill, but lack the skill and your moves are not smooth enough. In Radius every child knows how to disassemble and assemble back the rifle, and how to shoot it in a way that brings maximum pain and suffering to the target. [He looks at you, waiting for an answer]}
 {231}{020}{[continue]}
 
 
@@ -192,7 +192,7 @@
 {321}{033}{[continue]}
 
 
-{330}{}{[Ursul explains in detail how to get to Rainbow] The best place if you started to miss woman's tight ass. Or just looking to have fun. }
+{330}{}{[Ursul explains in detail how to get to Rainbow] The best place if you started to miss woman's tight ass, or just looking to have fun. }
 {331}{010}{Okay. I have some more questions.}
 {332}{999}{Okay. I've got to go now.}
 

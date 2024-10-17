@@ -48,8 +48,8 @@
 {2401}{}{While not the most dangerous type of ammunition, rubber bullets can knock an opponent out for a while.}
 {2500}{}{Poisoned Dart}
 {2501}{}{Although made of junk, the darts are perfectly balanced. Inside each is a cavity containing poison. Too bad they're single-use only.}
-{2600}{}{12mm Nitro}
-{2601}{}{A case of special 12mm incendiary ammunition for the unique "Hotter" shotgun.}
+{2600}{}{12 ga. Nitro}
+{2601}{}{A case of special 12 gauge incendiary ammunition for the unique "Hotter" shotgun.}
 {2700}{}{Magnum Bullets}
 {2701}{}{Very powerful magnum revolver cartridges.}
 {2800}{}{MiniBat energy cell}
@@ -75,9 +75,9 @@
 {3800}{}{Lead Gloves}
 {3801}{}{Very useful, crushes bones like it's nothing.\nMin. ST: 5}
 {3900}{}{Corkscrew}
-{3901}{}{A rather dangerous and inconspicuous weapon. Aim for the eyes!\nMin. ST: 3}
-{4000}{}{Buzz-Bladed Glove}
-{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bones never were so easy! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. A great unarmed weapon.\nMin. ST: 6}
+{3901}{}{A rather dangerous and inconspicuous weapon. Aim for the eyes! Min ST: 3}
+{4000}{}{Buzz Saw Glove}
+{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bone has never been easier! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. Min ST: 6}
 {4100}{}{Batteries}
 {4101}{}{The only generally accepted means of payment in the Radius.}
 {4200}{}{Mine}
@@ -886,7 +886,7 @@
 {44301}{}{A pack of sugar. Although old age and dampness made it hard as a rock, it's still as sweet as before.}
 {44400}{}{Sex Pill}
 {44401}{}{}
-{44500}{}{Shady CD-Disk}
+{44500}{}{Shady Compact Disk}
 {44501}{}{Sounds like someone's amateur fan-fiction.}
 {44600}{}{Scientific Report}
 {44601}{}{A label on the side reads "The Gamma Project"}

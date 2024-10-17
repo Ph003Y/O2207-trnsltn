@@ -1,22 +1,22 @@
-# Данный файл описывает сообщения,
-# использующиеся в скриптах сценери
+# This file describes the messages
+# used in scenario scripts
 #
 # Created by Artem "Rainman" Samoylov
 # 30/07/2013
 #
-# ЧТО ЭТО?
-# Это - аккумулятор для починки в Биолабории 2
+# WHAT IS THIS?
+# This is a repair battery for Biolaboratory 2
 #
-# Описание 1
+# Description 1
 {1}{}{You see a power bank.}
 {2}{}{You see a working power bank.}
 
-# Описание 2
+# Description 2
 {3}{}{It's broken, but you might try fixing it with a skill of repair or science not less than 55.}
 {4}{}{It's broken, but you are sure it can be fixed.}
 {5}{}{The power bank is now in working condition, thanks to your hands of gold. Your skills really came in handy.}
 
-# Действия
+# Actions
 {6}{}{}
 {7}{}{}
 {8}{}{}

@@ -364,7 +364,7 @@
 #
 {1860}{}{head}
 {1861}{}{missile hand}
-{1862}{}{Ã°Ã³ÃªÃ³ gun hand}
+{1862}{}{ðóêó gun hand}
 {1863}{}{body}
 {1864}{}{right leg}
 {1865}{}{left leg}
@@ -575,11 +575,11 @@
 #
 {5100}{}{ and really hurts}
 {5101}{}{. A serious wound is inflicted}
-{5102}{}{ with no armor defenses}
+{5102}{}{ with no armor protection}
 {5103}{}{. The damaging attack knocks her unconscious}
 {5104}{}{. The blow knocks her to the ground}
 {5105}{}{. The strong blow to the head knocks her out}
-{5106}{}{. The attack crushes her temple. Good night, sweet princess}
+{5106}{}{. The attack crushes her temple. Good night, sweetheart}
 {5107}{}{, death is instantaneous}
 {5108}{}{, causing severe tennis elbow}
 {5109}{}{, pushing the arm out of the way}
@@ -607,7 +607,7 @@
 {5131}{}{. She faints from the blinding attack}
 {5132}{}{, sadly, she doesn't get to pray to her gods before she meets them}
 {5133}{}{. She takes it like a man. That is to say, it hurts}
-{5134}{}{. The pain is too much for her and she collapses like a rag}
+{5134}{}{, knocking her to the ground}
 {5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap}
 #
 # series 5200 - little boy
@@ -713,6 +713,7 @@
 {5614}{}{. If it was human, you would swear it's pretty pissed off}
 {5615}{}{, knocking the poor creature senseless}
 {5616}{}{, spiking the brain to the floor}
+
 #
 # series 5700 - Rats
 #
@@ -754,9 +755,9 @@
 {5905}{}{ striking a critical spot, and crippling the arm}
 {5906}{}{, knocking the creature over and crippling the leg}
 {5907}{}{, stunning the Feral as it is knocked over with a crippled leg}
-{5908}{}{, rendering its lidless eyes completely useless. The Feral can't see}
+{5908}{}{, rendering its lidless eyes completely useless. The Feral can't see anything.}
 {5909}{}{, surprising the Feral. It blindly stumbles for a moment}
-{5910}{}{, surprising the Feral. With its eyes bulging out, it collapses to the ground}
+{5910}{}{, surprising the Feral. It collapses to the ground with its eyes bulging out}
 {5911}{}{, surprising the Feral. It collapses in a pile of goo}
 {5912}{}{. The attack was not as effective as it could have been - the creature has not enough organs}
 #
@@ -878,6 +879,7 @@
 {6904}{}{, knocking it around a bit}
 {6905}{}{, almost tipping it over}
 {6906}{}{, damaging some of its shell}
+
 #
 # series 7000 - Gun Turret  -- WIP! Won't Work!
 #
@@ -888,9 +890,8 @@
 {7004}{}{, knocking it around a bit}
 {7005}{}{, almost tipping it over}
 {7006}{}{, damaging some of its exoskeleton}
-#
+
 # Series 7100 - Reserved
-#
 {7100}{}{, blowing past the Bodyguard's armor}
 {7101}{}{, bringing the Bodyguard to his knees}
 {7102}{}{, destroying his arm control mechanism}

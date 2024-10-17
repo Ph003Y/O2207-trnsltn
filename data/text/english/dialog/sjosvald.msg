@@ -61,7 +61,7 @@
 
 
 {60}{}{Are you fucking lost it? You are way too far up your ass, faggot!}
-{61}{014}{Maybe it's YOU who lost it? Huh? Screaming around that you are Oswald Brown! Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave this place with your head in a bag as a souvenir.}
+{61}{014}{Maybe it's YOU who lost it, huh? Screaming around that you are Oswald Brown! Fuck me. I don't know who that is. And you don't fucking know who I am. And believe me, you'd better shut the hell up. I'm no fucking newb. I'm here on business. If you're going to show your cock off, I'll leave this place with your head in a bag as a souvenir.}
 {62}{007}{And?}
 
 
@@ -291,7 +291,7 @@
 {472}{999}{Nevermind that. I'm going.}
 
 
-{480}{}{I look out for greenhorn freaks like you and put some sense into them. They have no brains and no respect for authority. I'm not even talking about discipline.}
+{480}{}{I look out for greenhorn freaks like you and put some sense into them. No brains, no respect for authority. I'm not even talking about discipline.}
 {481}{050}{Who else is in charge here?}
 {482}{049}{You are pissing me off with your neglect attitude. I've seen much more of the world than you.}
 
@@ -307,11 +307,11 @@
 {503}{010}{Forget it. I still have some questions.}
 
 
-{510}{}{Billy fucking Stone. An asshole in charge of repairings. That's considering his crooked hands... I've heard that he likes to fuck somebody else's girls, heh-heh.}
+{510}{}{Billy fucking Stone. The asshole in charge of repairs. That's considering his crooked hands... I've heard that he likes to fuck somebody else's girls, heh-heh.}
 {511}{052}{Chris?}
 {512}{010}{Forget it. I still have some questions.}
 
 
-{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. His nerves are worse than Loudmouth's. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when their owner is not around.}
+{520}{}{Chris Murena. Fucking schizo. Better don't pull a gun in front of him, or he will shoot you instantly. His nerves are worse than Loudmouth's. And one more thing - watch your things while he's around. This cleptomaniac shithead never returns anything he takes. And he LOVES to take things when the owner is not around.}
 {521}{051}{Billy?}
 {522}{010}{Forget it. I still have some questions.}

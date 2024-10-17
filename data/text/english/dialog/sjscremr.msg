@@ -12,7 +12,7 @@
 #
 # до знакомства
 {1}{}{You see a raider wearing steel armor.}
-{2}{}{His suit is covered with the marks of previous battles, and his weapon never leave his hands.}
+{2}{}{His armor bears the marks of previous battles and his hands never strays far from the weapons on his belt.}
 #
 # после знакомства
 {3}{}{You see Loudmouth.}
@@ -70,7 +70,7 @@
 
 {130}{}{What are you implying?! That Jackals are not good enough for something?! Although... Wait, stand still for now... [He starts pondering, poking with hand into steel plate on his caved armor. Suddenly, he violently rips it off. But when he talks to you again, his voice sounds more or less calm.] Here's my question - are you good at hunt?}
 {131}{020}{Good? I can find a fly by its trace in the air!}
-{132}{020}{Can do something, yes. Why?}
+{132}{020}{Can do something, yes. Why do you ask?}
 {133}{012}{Nah, not my thing. Better tell me something else.}
 {134}{999}{Uh... I've just remembered I have some business to take care of. See you later.}
 
@@ -86,7 +86,7 @@
 {152}{017}{You can scare your pet bitches all you want, shithead - It won't work on me! Now I'm gonna strangle you with your own intestines!}
 
 
-{160}{}{We are the Sunset Jackals!! We are the ones who take what they want by the right of might! As my father used to say - real men satisfy their hunger only with the blood of their victims, their children fall asleep only to the cries of their dying enemies as a lullaby! All the fucking wasteland knows and remembers the Jackal and his pack! And don't you dare to get in our way...}
+{160}{}{We are the Sunset Jackals!! We are the ones who take what they want by the right of might! As my father used to say - real men satisfy their hunger only with the blood of their victims, their children fall asleep only to the screams of dying enemies instead of a lullaby! All the fucking wasteland knows and remembers the Jackal and his pack! And don't you dare to get in our way...}
 {161}{018}{I see. You mentioned someone named Hog. Who is that?}
 {162}{015}{Hah! Why don't you said so earlier? Another pathetic gang of shitty raiders with attitudes...}
 {163}{022}{Looks like your father meant real business. I'd like to learn more about him.}
@@ -139,15 +139,15 @@
 
 
 {250}{}{[He suspiciously moves his eyes from door to you and back] Why the hell she would go there, I wonder?}
-{251}{029}{Well, I managed to overhear that she wanted to look for a cleaner puddle to do her makeup, because she wants to meet you in better shape. She was very excited about that. You are very lucky, you know!}
+{251}{029}{Well, I accidentally heard that she wanted to looks for the cleaner puddle to do her makeup, because she wants to meet you in better shape. She was very excited about that. You are so lucky!}
 {252}{029}{Uh... Um... I don't know, maybe a stomach ache?}
-{253}{026}{It can wait. I have some very important information for you.}
+{253}{026}{It can wait. I have some important information for you.}
 {254}{999}{How would I know? Deal with it yourself. I'm out of here...}
 
 
 {260}{}{[He menacingly approaches you] The fuck? What could you possibly have to tell me?!}
 {261}{027}{I recently eavesdropped on a couple of your Jackals - I'm very curious, you know... So, I've heard them talking about something important and snuck upon them...}
-{262}{027}{Yes, you are right, don't know what came over me... But your girl isn't there, I saw her walking away in that direction just before you arrived.}
+{262}{027}{Yes, you are right, don't know what came over me... But your girl isn't there, I saw her walking away in that direction, just before you arrived.}
 {263}{999}{I have nothing to do here, sorry. I won't stop you anymore.}
 
 
@@ -193,12 +193,12 @@
 {333}{999}{Yeah, sure, go in.}
 
 
-{340}{}{[He comes closer with a vicious smirk] So cheeky today, aren't you, hotshot? Maybe I should beat some respect into you...}
+{340}{}{[He comes closer with an evil grin] So cheeky today, aren't you, hotshot? Maybe I should beat some respect into you...}
 {341}{998}{Go ahead, you bitch! Come here!}
 {342}{998}{Why do we always have to resort to violence? Hey, put your hands away from there!}
 
 
-{350}{}{[You fail to finish the sentense] HOG?! You are his new BITCH, aren't you?! Bitch so stupid that you came straight to me?! ALONE?! [He pulls out a huge knife, cutting his other palm. The blood starts to drip on the floor] Just when I need new fingers to add to my collection...}
+{350}{}{[You fail to finish the sentense] HOG?! You are his new BITCH, aren't you?! Bitch so stupid that you came straight to me?! ALONE?! [He pulls out a huge knife, cutting his other palm. The blood starts to drip on the floor] Just when I need new fingers for my collection...}
 {351}{036}{Hey-hey, easy! It's in your own interests!! Just listen for a minute, it won't take long.}
 {352}{017}{Put away the knife, bozo. Or I'm gonna cut off something of yours. For MY collection.}
 {353}{036}{Listen, you know me well. And I realize who I'm talking with here.  I wouldn't put myself into dealing with Hog for no reason, be sure about that.}
@@ -209,7 +209,7 @@
 {3602}{}{[He calms down a little, but the knife stays in his hand] What this fucking PIG could possibly offer?! We are wasting time here... }
 {362}{037}{So, here's the deal - the Hog wants to make peace. Yes, I know what you're going to answer. But first, think about it - Rainbow is the only supplier of the Drop, and if the war starts, where are you going to get yours? }
 {363}{037}{I've seen the Rainbow's defenses and military forces. Even if you succeed in taking over them, your losses will be disastrous. How are you going to protect your territory after that? It's wiser to bid your time and don't go into direct conflict with Hog.}
-{364}{037}{I managed to sign up a very profitable trading agreement with the Rainbow. Considering the approximated volume of deliveries, you are selling weapons and buying the Drop at very good prices. So use it! With the big money assets, the Jackals will grow so strong that the Rainbow itself will come asking you for protection! And that's when you deal with Hog.}
+{364}{037}{I managed to sign up a very profitable trading agreement with the Rainbow. Considering the approximated volume of deliveries, you are selling weapons and buying the Drop at a very good price. So use it! With the big money assets, the Jackals will grow so strong that the Rainbow itself will come asking you for protection! And that's when you deal with Hog.}
 {365}{039}{Right! I'm here only to tell you this - the Hog is afraid of the Jackals! The negotiations for peace are a sign of weakness! It's time to strike!!}
 {366}{999}{Believe me, you are wrong. But I need to check on some facts. See you later.}
 
@@ -218,11 +218,11 @@
 {371}{038}{Okay, no problem. I hope you'll make a good decision.}
 
 
-{380}{}{[You stay in the company of two thuggish Jackals, who are busy with a very intellectual dialogue about better ways to skin a man alive. Unfortunately, when the most interesting part starts, Loudmouth comes back with his other men] Here's the answer - tell Hog that we'll take the deal. We won't touch them for now. And we will even sell the next batch of "merchandize" with a discount... A little excessive, if you ask me. [He glances at one of his guards] But if there ANY reason, even a little one - I fucking let loose all my Jackals and drown the whole Rainbow in blood! Got it?!}
+{380}{}{[You stay in the company of two thuggish Jackals, who are busy with a very intellectual dialogue about better ways to skin a man alive. Unfortunately, when the most interesting part starts, Loudmouth comes back with his other men] Here's the answer - tell Hog that we'll take the deal. We won't touch them for now. And we will even sell the next batch of "merchandize" with a discount... A little excessive, if you ask for me. [He glances at one of his guards] But if there ANY reason, even a little one - I fucking let loose all my Jackals and drown the whole Rainbow in blood! Got it?!}
 {381}{999}{Great. I'll tell that to Hog. Was nice having business with you, but I've got to go.}
 
 
-{390}{}{[He puts a knife away and pats you on the shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done for... But not now. Later. If you'd like to join the fun, just tell me. We'll find you something to do. Pick fingers for me, for example. Haha!}
+{390}{}{[He puts a knife away and pats you on the shoulder] Ha! I knew it! He doesn't have the balls to go against me! Now he's definitely done for... But not now. Later. If you want to join the fun, just tell me. We'll find you something to do. Maybe collecting fingers for me, haha!}
 {391}{999}{Ahem... What an honor. Okay, that's it for me, I won't be bothering you anymore.}
 
 
@@ -233,9 +233,9 @@
 {403}{017}{I see you don't understand who are you barking on?! You gonna cough with blood after we finished, bitch!}
 {404}{999}{Sure, sure. You should come by us sometimes. You won't be disappointed, I promise. Just tell us in advance, we'll dig some graves for your guys. See you around, Jackal.}
 {409}{999}{At least it's honest. Okay, we'll see how it turns out eventually.}
-{4003}{}{[He literally looks you over from every side] How someone like YOU could take down Hog?! I bet I would do it fucking faster. Anyway - soon the Rainbow's gonna be ours! I'm gonna impale every fucking one of them on stakes, those shit-eating junkies!! Don't wait for me to thank you though - I wanted to fuck up this fangy pig bitch myself.}
+{4003}{}{[He literally looks you over from every side] How someone like YOU could take down the Hog?! I bet I would do it fucking faster. Anyway - soon the Rainbow's gonna be ours! I'm gonna impale every fucking one of them on stakes, those shit-eating junkies!! Don't wait for me to thank you though - I wanted to fuck up this fangy pig bitch myself.}
 {405}{017}{How? I can show you. If you are still good for something except babbling.}
 {406}{999}{I can live with that. See you around, Jackal.}
-{4004}{}{[He shakes his head so hard that you see the cloud of dust goes up from his mohawk] How the hell did that happen?! It should have been ME who put him down!! FUCK!!! Although there IS one thing that pleases me - the Rainbow is now ours for sure... Okay, get the fuck where you wanted to. Do not piss me off.}
+{4004}{}{[He shakes his head so hard that you see the cloud of dust goes up from his mohawk] How the hell did that happen?! It should have been ME who put him down!! FUCK!!! Although there IS one thing that pleases me - Rainbow is now ours for sure... Okay, get the fuck where you wanted to. Do not piss me off.}
 {407}{017}{You know, it was me who put Hog down. And I'm going to do the same to you. Right now.}
 {408}{999}{Okay. See you then.}

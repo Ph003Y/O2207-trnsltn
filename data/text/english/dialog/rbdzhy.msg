@@ -89,14 +89,14 @@
 {121}{023}{I think you are capable of raiding only local drunks! What caravan, black boy? Get out of here, don't buzz me!}
 {122}{018}{I have no doubts about you, but it sounds risky... Did you think this through?}
 {123}{017}{It suits me. Have you picked a place for an ambush?}
-{124}{999}{I'll pass. The info is shady, details are unknown... I don't do work this way. See you!}
+{124}{999}{I'll pass. The info is sketchy, details are unknown... I don't do work this way. See you!}
 {1202}{}{[he winks at you with a mysterious look] Sure, brother! I overheard something recently while cleaning pockets of one drunk white boy... About the caravans from NWO. Guards are weak, much stuff to take... Get it? A good idea, don't you think? [looks at you, waiting for your approval]}
 {125}{018}{Listen, G... It's cool and all, but do you understand the consequences?}
 {126}{017}{Great, little brother! Where are we going to set up our ambush? We need a good place...}
 {127}{999}{Let's talk about it later. I need to go now.}
 
 
-{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! And we are going to take over this place eventually, just you wait. The Hog is a tough guy, of course, but the Drop is doing no good to him. He can't even sleep, did you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog care about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
+{130}{}{[he puts arms to the sides, pulling out his hollow chest] Hey, you! Watch your mouth! [his voice gets louder] They are not my friends! They are my BROTHERS! And we are going to take over this place eventually, just you wait. What? The Hog is a tough guy, of course, but the Drop is doing him no good. He can't even sleep, did you know that? And about the rest... That freaking pimp Shepherd... [he blows his nose] He is a disgrace to all black brothers! Why does the Hog care about him? We are much better to deal with - we know everything around the Rainbow, every hole in the fence, every little path! And we have each other's backs. All I need is a little more people, and... [he looks at you, thinking]}
 {131}{014}{Have something to add, G?}
 
 
@@ -115,7 +115,7 @@
 {153}{999}{Yeah, to fetch some cognac to some snots... No thank you. Not today.}
 
 
-{160}{}{[he chuckles] Don't lecture me, uncle. I won't do drugs, don't you worry. And the booze is okay, I can handle it. Besides, why should I care what happens in the next twenty years, if I can die at any moment from some random shit? I should have fun! Now, at this moment! And you are spoiling my fun... [he sighs] I know how to live my life without your advices. So? Would you get us some booze? If not, well do it ourselves.}
+{160}{}{[he chuckles] Don't lecture me, uncle. I won't do drugs, don't you worry. And the booze is okay, I can handle it. Besides, why should I care what happens in the next twenty years, when I can die at any moment from some random shit? I should have fun! Now, at this moment! And you are spoiling my fun... [he sighs] I know how to live my life without your advice. So? Would you get us some booze? If not, well do it ourselves.}
 {161}{999}{You're right. You'll understand... Eventually. I'll bring you your cognac. Wait.}
 {162}{999}{No. I won't participate in making your life more miserable.}
 
@@ -138,7 +138,7 @@
 
 
 {200}{}{Ahem... We need to discuss it... [he walks to the side, gathering his friends. They talk for some time, waving hands and shouting. Then G returns to you. He looks pleased] We're in. You can tell Hog we're in. }
-{201}{999}{Great! You're going to grow up into a good leader. I'll go finish this matter. See you!}
+{201}{999}{Great! You're going to grow up into a good leader. I'll go resolve this matter. See you!}
 
 {202}{}{I had a talk with the Hog about guarding the Rainbow - and he is in. He needs your services.}
 {203}{}{Yeah! YEAH! The G's gang and the Hog are PARTNERS! How's that sound? We're going to be in charge here! Gonna do things! You are so helpful, man, we will not let you down! Thanks!}
@@ -149,7 +149,7 @@
 {212}{999}{Good! Only wait a minute, I need to do something first.}
 
 
-{220}{}{[You are getting drunk with your new brothers and sisters all night. In the morning G declares you a member of the gang, in front of everyone who's still standing and not puking in the nearest ruins. Life feels great!]}
+{220}{}{[You are getting drunk with your new brothers and sisters all night. In the morning, G declares you a member of the gang, in front of everyone who's still standing and not puking in the nearest ruins. Life feels great!]}
 {221}{999}{[Go to sleep with a feeling of fulfillment]}
 
 
@@ -177,11 +177,11 @@
 {261}{999}{You could pick a better place to make a stash. See you.}
 
 
-{2701}{}{What else can we do? Eat shit and die? It is you who put all Rainbow under his belt... We are literally out of options!}
+{2701}{}{What are we supposed to do? Eat shit and die? It is you who put all Rainbow under his belt... We are literally out of options!}
 {271}{029}{I'm not telling you to stop doing it. But if I have troubles, then you are paying me to compensate them. A hundred each month.}
 {272}{030}{What if you'll work for me? I need scouts to watch over Rainbow's perimeter. We have many enemies, you know... For this, you get free supplies and I'm going to ignore little things like empty pockets of locals and town guests. What do you say?}
 {273}{999}{I need to think. I'll come by later.}
-{2702}{}{[G gets somber] Five... But what can we do? Eat shit and die? Don't take me wrong, I get it - you are worried about us. And I appreciate it! Want me to pay you a cut for this? A hundred, for our common cause?}
+{2702}{}{[G gets somber] Five... But what are we supposed to do? Eat shit and die? Don't take me wrong, I get it - you are worried about us. And I appreciate it! Want me to pay you a cut for this? A hundred, for our common cause?}
 {274}{029}{That's actually a very good idea. Deal, brother. I will be visiting you once a month.}
 {275}{030}{I have a better proposal - let's work together. I need scouts to watch over Rainbow's perimeter. We have many enemies, you know... For this, you get free supplies and I'm going to ignore little things like empty pockets of locals and town guests. What do you say?}
 {276}{999}{Sounds difficult... I'll think about it, and you take care of yourselves. Try not to get yourself killed.}

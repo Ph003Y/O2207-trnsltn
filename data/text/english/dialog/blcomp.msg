@@ -1,33 +1,33 @@
 #############################################################
-#Текстовый файл для криттера << ??? >> 
-#Номер строки в scripts.lst << ??? >>
+#Text file for the critter << ??? >>
+#Line number in scripts.lst << ??? >>
 #############################################################
-#Структура файла:
-#строки 1-9 - описание персонажа;
-#строки 10-29 - знакомство с песонажем;
-#строки 30-99 - пока не знаю, но думаю, что пригодятся...
-#Далее, по веткам диалога.
-#Каждая ветка кратна 100, т.е. 100 - одна тема диалога, 200 - другая.
-#Реплики персонажа идут через 10, т.е. 100, 110, 120 и т.д. При чем 
-#для реплики 100 использовать Node010, для реплики 240 - Node024.
-#Для ответов игрока - сквозная нумерация, т.е. на реплику 650 ответы будут 651, 652, 653 и т.д. 
-#Для особых ответвлений использовать дополнительные цифры (например, реплика 360 делится на 3601 и 3602,
-#это же касается процедуры Node, ответы же будут в обычной форме - 361, 362 и т.д.)
+#File Structure:
+#Lines 1-9 - character description;
+#Lines 10-29 - introduction to the character; 
+#Lines 30-99 - not sure yet, but I think they will be useful... 
+#Then, dialogue branches.
+#Each branch is a multiple of 100, i.e., 100 - one dialogue topic, 200 - another. 
+#Character lines are spaced every 10, i.e., 100, 110, 120, etc. For example,
+#for line 100 use Node010, for line 240 use Node024.
+#For player responses - continuous numbering, i.e., for line 650 responses will be 651, 652, 653, etc.  
+#For special branches use additional numbers (e.g., line 360 splits into 3601 and 3602, 
+#this also applies to the Node procedure, but responses will be in the usual form - 361, 362, etc.)
 #############################################################
-#Такая организационная система не позволяет создавать слишком сложные диалоги,
-#что для меня лично очень хорошо!!!
+#This organizational system does not allow creating overly complex dialogues,
+#which is very good for me personally!!!
 ############################################################
-#специально для "Олимп 2207", by Rainman, 06/11/2010
+#Specifically for "Olympus 2207", by Rainman, 06/11/2010
 #############################################################
 #
-#ОПИСАНИЕ КРИТТЕРА
+#Critter Descriptions
 #
-# до знакомства
+# Before Introduction
 #
 {1}{}{You see a calculator.}
 {2}{}{An ancient calculator. It may contain some useful information, but it won't work without power.}
 #
-# после знакомства
+# After Introduction
 #
 {3}{}{You see a calculator.}
 {4}{}{It's in good condition and still functioning.}

@@ -68,7 +68,7 @@
 {121}{}{I need to talk to Dr. Pat, maybe he could give me a day off too.}
 {122}{}{Mom... I miss her so much...}
 {123}{}{You know, you're right. You need to rest.}
-{1202}{}{Herald Gregorius knows and understands the problems of our people. Nothing wrong in me spending some time here.}
+{1202}{}{Herald Gregorius knows and understands the problems of our people. Nothing wrong with me spending some time here.}
 {124}{}{Damn! I have my problems too! It's not fair I have to work!}
 {125}{}{Well, if he is aware of that...}
 {126}{}{I see. Then I'll go do my labor.}
@@ -76,7 +76,7 @@
 {131}{}{Uhh... You know, I'd better go do my work then.}
 {132}{}{Considering your condition, you are more likely to hurt yourself. Okay, I'll go do my labor. See you around.}
 {1401}{}{Son, uh, just look around. I don't know, I need to work.}
-{1402}{}{Oh... Well, I would start by examining the Lavash, just to try to understand what's wrong with them. Then I'd talk to those who look after them. Ask about what they eat and drink. Then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
+{1402}{}{Oh... Well, I would start by examining the Lavash, just to try to understand what's wrong with them. Then I'd talk to the caretaker about what they eat and drink. Then I'd figured out the rest. Maybe the water is rotten? Then it's something with the water cleaning filters, I would look into that.}
 {141}{}{Well, thanks for nothing...}
 {142}{}{You know what, that's a great plan! Thanks!}
 {149}{}{Dad, do you know who is that big gloomy black man on the parking lot?}

@@ -81,7 +81,7 @@
 {152}{}{Why should I do all the work?! Although, what choice do I have... Give me that.}
 {160}{}{When you find the details, just put everything together - and you'll get a working node! Then you need to install it into the machine, and that's it! Easy!}
 {161}{}{I figured as much... Okay, I'm off to look for the parts.}
-{162}{}{I see... Thanks for the instructions, I'll go on search.}
+{162}{}{I see... Thanks for the instructions, I'll go look for the parts.}
 {170}{}{Hah! Aren't you a sly dog? You do know that there are almost no bottles left, and yet you are still asking! You know what? I can give you a bottle. For a little favor.}
 {171}{}{Who could doubt that. Tell me about this "favor".}
 {172}{}{I don't need it right now. I want to ask something.}

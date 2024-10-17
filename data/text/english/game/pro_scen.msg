@@ -4137,6 +4137,7 @@
 {224801}{}{You won't find any use for this junk.}
 {224900}{}{junk}
 {224901}{}{You don't want to collect any junk, do you?}
+
 {225000}{}{a door}
 {225001}{}{This door is securely boarded up.}
 {225100}{}{a bed}
@@ -4690,6 +4691,7 @@
 {255400}{}{a metal archway}
 {255401}{}{Rusty, but still strong.}
 {255500}{}{a metal archway}
+
 {255600}{}{a shadow}
 {255700}{}{a coffee machine}
 {255701}{}{You press the button and nothing happen. It seems to be broken.}
