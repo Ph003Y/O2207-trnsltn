@@ -7,14 +7,14 @@ Dialogues are in the /dialogues,
 Most of other stuff is in the /game.
 The endings are in the /cuts.
 
-art and pcx from olympus 2207 1.2 are now provided
+Download O2207_EN.7z from here.
 
-put party_op.ini, sfall-mods.ini, translations.ini into mods/IniConfigs
+Extract everything to the main folder.
 
-delete party_orders.ini in mods/IniConfigs
+Delete party_orders.ini in mods/IniConfigs.
 
-put edited sfall.dat into the root folder
+Activate O2207_EN.dat through sfall configurator.
 
-download inventory filter mod english version, copy everything inside pcx folder then use InvenFilter.ini file from here.
+Play.
 
 Feel free to fix and to contribute.
